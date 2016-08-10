@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">变色</string>
+    <string name="action_settings">Settings</string>
+    <string name="ShowWordText">看我变变变~~~</string>
+	<string name="GreenBtnText">绿色</string>
+	<string name="BlueBtnText">蓝色</string>
+	<string name="YellowBtnText">黄色</string>
+</resources>
